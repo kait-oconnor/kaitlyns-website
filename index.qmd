@@ -1,7 +1,16 @@
 ---
-title: "CY350 OConnor Website"
+title: "Welcome to Kaitlyn O'Connor's CY350 Website"
 ---
 
-This is a Quarto website.
+## About me 
+Hometown: Satellite Beach, FL
+Company: A-1
+Year: 2028
+
+Information:
+“Sometimes I’ll start a sentence and I don’t even know where it’s going. I just hope I find it along the way.” — Michael Scott
+
+## Lab 5
+This site was created using Quarto and published online.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
