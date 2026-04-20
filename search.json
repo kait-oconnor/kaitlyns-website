@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to Kaitlyn O’Connor’s CY350 Website",
+    "section": "",
+    "text": "Hometown: Satellite Beach, FL Company: A-1 Year: 2028\nInformation: “Sometimes I’ll start a sentence and I don’t even know where it’s going. I just hope I find it along the way.” — Michael Scott"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Welcome to Kaitlyn O’Connor’s CY350 Website",
+    "section": "",
+    "text": "Hometown: Satellite Beach, FL Company: A-1 Year: 2028\nInformation: “Sometimes I’ll start a sentence and I don’t even know where it’s going. I just hope I find it along the way.” — Michael Scott"
+  },
+  {
+    "objectID": "index.html#lab-5",
+    "href": "index.html#lab-5",
+    "title": "Welcome to Kaitlyn O’Connor’s CY350 Website",
+    "section": "Lab 5",
+    "text": "Lab 5\nThis site was created using Quarto and published online.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
